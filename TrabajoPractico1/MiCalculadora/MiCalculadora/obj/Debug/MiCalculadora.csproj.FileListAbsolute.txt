@@ -1,0 +1,11 @@
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb

@@ -1,0 +1,5 @@
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Julieta\Desktop\Mili\20190404\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
