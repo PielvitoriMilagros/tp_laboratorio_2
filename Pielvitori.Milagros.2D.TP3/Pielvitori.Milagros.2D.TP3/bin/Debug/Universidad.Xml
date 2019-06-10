@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Universidad xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumnos>
+    <Alumno>
+      <Nacionalidad>Argentino</Nacionalidad>
+      <Nombre>Juan</Nombre>
+      <Apellido>Lopez</Apellido>
+      <DNI>0</DNI>
+    </Alumno>
+  </Alumnos>
+  <Jornadas />
+  <Instructores>
+    <Profesor>
+      <Nacionalidad>Argentino</Nacionalidad>
+      <Nombre>Juan</Nombre>
+      <Apellido>Lopez</Apellido>
+      <DNI>0</DNI>
+    </Profesor>
+    <Profesor>
+      <Nacionalidad>Argentino</Nacionalidad>
+      <Nombre>Roberto</Nombre>
+      <Apellido>Juarez</Apellido>
+      <DNI>0</DNI>
+    </Profesor>
+  </Instructores>
+</Universidad>
