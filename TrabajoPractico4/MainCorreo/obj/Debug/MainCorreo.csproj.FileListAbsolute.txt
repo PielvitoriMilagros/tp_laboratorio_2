@@ -1,0 +1,9 @@
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.FormPpal.resources
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.pdb
