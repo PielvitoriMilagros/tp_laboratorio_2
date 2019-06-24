@@ -1,0 +1,6 @@
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Julieta\Desktop\Mili\UTN - Mili\TrabajoPractico4\Entidades\obj\Debug\Entidades.pdb
